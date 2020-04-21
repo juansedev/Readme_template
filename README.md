@@ -77,7 +77,7 @@ __Febrary, 2020.__
 <p align="left">
     <h2 align="left">Author 🏆</h2>
     <p align="center">
-    <h2 align="left">Juan Sebastian Llano Gallego </h2>
+    <h3 align="left">Juan Sebastian Llano Gallego </h3>
       <a href="https://twitter.com/llanoJS" target="_blank">
           <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: left; margin-right: 10px" height="50" width="50">
       </a>
