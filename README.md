@@ -75,7 +75,7 @@ __Febrary, 2020.__
 <br>
 
 <p align="left">
-    <h1 align="left">Author 🏆</h1>
+    <h2 align="left">Author 🏆</h2>
     <p align="center">
     <h2 align="left">Juan Sebastian Llano Gallego </h2>
       <a href="https://twitter.com/llanoJS" target="_blank">
@@ -90,7 +90,7 @@ __Febrary, 2020.__
     </p>
 </p>
 <p align="left">
-  <h1 align="left">Made with ❤ in</h1>
+  <h2 align="left">Made with ❤ in</h2>
   <p align="left">
   <a href="https://www.holbertonschool.com/" target="_blank">
       <img alt="holberton_page" src="https://www.holbertonschool.com/holberton-logo.png" style="float: left; margin-right: 10px;">
