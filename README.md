@@ -61,18 +61,6 @@ Definition :black_nib: :
 
 ---
 
-## Made with :heart: in
-<img src="https://www.holbertonschool.com/holberton-logo.png"
-     alt="Flow chart"
-     style="float: left; margin-right: 10px;">
-
-__Holberton School - Colombia__
-__Foundations - System engineering & DevOps - Bash__
-
-__Febrary, 2020.__
-<br>
-<br>
-<br>
 
 <p align="center">
     <h2 align="center">Author 🏆</h2>
@@ -91,6 +79,11 @@ __Febrary, 2020.__
       </p>
     </p>
 </p>
+
+## Made with :heart: in
+<img src="https://www.holbertonschool.com/holberton-logo.png"
+     alt="Flow chart"
+     style="float: left; margin-right: 10px;">
 
 __Holberton School - Colombia__
 __Foundations - System engineering & DevOps - Bash__
