@@ -24,8 +24,7 @@
 <p align="center">
 <h1 align="center">Bash</h1>
 <img src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/bash_logo.png"
-     alt="bash_logo"
-     style="float: left; margin-right: 10px;">
+     alt="bash_logo">
 </p>
 
 In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/software/bash/) (**Bourne Again SHell**).
