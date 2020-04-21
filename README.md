@@ -93,13 +93,14 @@ __Febrary, 2020.__
 </p>
 <br>
 
-
-## Made with :heart: in
-
-<a href="https://www.holbertonschool.com/" target="_blank">
-    <img alt="holberton_page" src="https://www.holbertonschool.com/holberton-logo.png" style="float: left; margin-right: 10px;">
-</a>
-
+<p align="left">
+  <h1 align="left">Made with ❤ in</h1>
+  <p align="left">
+  <a href="https://www.holbertonschool.com/" target="_blank">
+      <img alt="holberton_page" src="https://www.holbertonschool.com/holberton-logo.png" style="float: left; margin-right: 10px;">
+  </a>
+  </p>
+</p>
 
 __Holberton School - Colombia__
 __Foundations - System engineering & DevOps - Bash__
