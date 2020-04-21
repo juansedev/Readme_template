@@ -78,21 +78,17 @@ __Febrary, 2020.__
     <h1 align="left">Author 🏆</h1>
     <p align="center">
     <h2 align="left">Juan Sebastian Llano Gallego </h2>
-    <div>
-        <a href="https://twitter.com/llanoJS" target="_blank">
-            <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: left; margin-right: 10px" height="80" width="80">
-        </a>
-        <a href="https://www.linkedin.com/in/juansllano/" target="_blank">
-            <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/linkedin.png" style="float: left; margin-right: 10px" height="80"  width="80">
-        </a>
-        <a href="https://medium.com/@juanllano93" target="_blank">
-            <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/medium.png" style="float: left; margin-right: 10px" height="80" width="80">
-        </a>
-    </div>
+      <a href="https://twitter.com/llanoJS" target="_blank">
+          <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: left; margin-right: 10px" height="80" width="80">
+      </a>
+      <a href="https://www.linkedin.com/in/juansllano/" target="_blank">
+          <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/linkedin.png" style="float: left; margin-right: 10px" height="80"  width="80">
+      </a>
+      <a href="https://medium.com/@juanllano93" target="_blank">
+          <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/medium.png" style="float: left; margin-right: 10px" height="80" width="80">
+      </a>
     </p>
 </p>
-<br>
-
 <p align="left">
   <h1 align="left">Made with ❤ in</h1>
   <p align="left">
