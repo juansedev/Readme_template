@@ -30,6 +30,7 @@ Definition:
 
 > Bash is the GNU Project's shell. Bash is the Bourne Again SHell. Bash is an sh-compatible shell that incorporates useful features from the Korn > shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard. It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification.
 
+---
 ### Files / Directories
 
 ##|File|Description
@@ -39,6 +40,26 @@ Definition:
 2|[0x01-emacs](./0x01-emacs)|In this project the EMACS text editor was installed and its basic commands were revised.
 3|[0x02-vi](./0x02-vi)|In this project the basic commands of the text editor VI were revised.
 4|[0x03-git](./0x03-git)|In this project I work with the Github version control tool and its main commands.
+---
+## Resources
+
+
+*    [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
+
+## Files
+
+##|File
+---|---
+1|[README.md](./README.md)
+2|[0-opening](./0-opening)
+3|[1-saving](./1-saving)
+4|[2-cutting](./2-cutting)
+5|[3-pasting](./3-pasting)
+6|[4-searching](./4-searching)
+7|[6-quitting](./6-quitting)
+8|[101-doctor](./101-doctor)
+
+---
 
 # Authors
 
