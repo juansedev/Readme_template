@@ -1,4 +1,4 @@
-<p >
+<p align="center">
   <img src="https://www.holbertonschool.com/holberton-logo.png" width="360"/>
  <h1 align="center">System engineering & DevOps - Bash <br> 😎🎯👨‍💻</h1>
  <p align="center">
@@ -21,13 +21,12 @@
 </p>
 
 
-
+<p align="center">
 <h1 align="center">Bash</h1>
-
 <img src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/bash_logo.png"
      alt="bash_logo"
-     style="float: left; margin-right: 10px;" align="center">
-<br>
+     style="float: left; margin-right: 10px;">
+</p>
 
 In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/software/bash/) (**Bourne Again SHell**).
 
