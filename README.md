@@ -24,6 +24,10 @@
 
 <h1 align="center">Bash</h1>
 
+<img src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/bash_logo.png"
+     alt="bash_logo"
+     style="float: left; margin-right: 10px;">
+
 In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/software/bash/) (**Bourne Again SHell**).
 
 Definition :black_nib: :
@@ -69,13 +73,13 @@ Definition :black_nib: :
     <h3 align="center">Juan Sebastian Llano Gallego </h3>
       <p align="center">
         <a href="https://twitter.com/llanoJS" target="_blank">
-            <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
+            <img alt="twitter_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
         <a href="https://www.linkedin.com/in/juansllano/" target="_blank">
-            <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
+            <img alt="linkedin_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
         </a>
         <a href="https://medium.com/@juanllano93" target="_blank">
-            <img alt="holberton_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
+            <img alt="medium_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
       </p>
     </p>
