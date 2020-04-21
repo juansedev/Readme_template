@@ -5,16 +5,16 @@
     <a href="https://github.com/ellerbrock/open-source-badges/">
         <img alt="bash" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103" target="_blank" />
     </a>
-    <a href="https://github.com/EckoJuan/holberton-system_engineering-devops/commits/master">
-        <img alt="commit_activity" src="https://img.shields.io/github/commit-activity/y/EckoJuan/holberton-system_engineering-devops" target="_blank" />
+    <a href="https://github.com/EckoJuan/Readme_template/commits/master">
+        <img alt="commit_activity" src="https://img.shields.io/github/commit-activity/y/EckoJuan/Readme_template" target="_blank" />
     </a>
-    <a href="https://github.com/EckoJuan/holberton-system_engineering-devops/graphs/contributors">
-        <img alt="contributors" src="https://img.shields.io/github/contributors/EckoJuan/holberton-system_engineering-devops" target="_blank" />
+    <a href="https://github.com/EckoJuan/Readme_template/graphs/contributors">
+        <img alt="contributors" src="https://img.shields.io/github/contributors/EckoJuan/Readme_template" target="_blank" />
     </a>
-    <a href="https://github.com/EckoJuan/holberton-system_engineering-devops" target="_blank">
-      <img alt="code-size" src="https://img.shields.io/github/languages/code-size/EckoJuan/holberton-system_engineering-devops" />
+    <a href="https://github.com/EckoJuan/Readme_template" target="_blank">
+      <img alt="code-size" src="https://img.shields.io/github/languages/code-size/EckoJuan/Readme_template" />
     </a>
-    <a href="https://github.com/EckoJuan/holberton-system_engineering-devops" target="_blank">
+    <a href="https://github.com/EckoJuan/Readme_template" target="_blank">
       <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
     </a>
  </p>
