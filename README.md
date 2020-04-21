@@ -21,9 +21,10 @@
 </p>
 
 
-# Bash (*Bourne Again SHell*)
 
-In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/software/bash/)
+<h1 align="center">Bash</h1>
+
+In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/software/bash/) (**Bourne Again SHell**).
 
 Definition :black_nib: :
 
