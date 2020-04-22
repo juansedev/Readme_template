@@ -20,7 +20,8 @@
     </a>
  </p>
 </p>
-
+https://unicode.org/emoji/charts/full-emoji-list.html
+👽❤💯💤💭🗨🖖👋👌🤘👈👉👍✍🦾💪🧑‍🏫🧑‍🔧🧑‍💻👨‍💻👩‍💻🧑‍🚀🦸‍♂️🦸‍♀️🏃‍♂️🏃‍♀️🌲🌱🌳🌍🌎🌏🗺🌐🛑🚧🛸🚀🛰⌛⏳⌚🌟🏆🎖🎯🎮🕹🧩🥽🔊📣🔋🔌💻📓📚📦📫🖋✒✏📌📍🗝🔒🔓🛠🔨⚔🏹🔧⚙📡☢☣❔❓‼❕❗♻🤖
 
 <p align="center">
 <h1 align="center">Bash</h1>
@@ -43,11 +44,26 @@ A shell program is typically an executable binary that takes commands that you t
 
 ##|File|Description
 ---|---|---
-1|[README.md](./README.md)|Readme.
-2|[0x01-vagrant](./0x00-vagrant)|In this project a virtualized development environment was installed and configured, it was carried out using the Github, VirtualBox and Vagrant tools.
-2|[0x01-emacs](./0x01-emacs)|In this project the EMACS text editor was installed and its basic commands were revised.
-3|[0x02-vi](./0x02-vi)|In this project the basic commands of the text editor VI were revised.
-4|[0x03-git](./0x03-git)|In this project I work with the Github version control tool and its main commands.
+1|[README.md](./README.md)|...
+2|[0x00. C - Hello, World ](./0x00-hello_world)|...
+3|[0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)|...
+4|[0x02. C - Functions, nested loops ](./0x02-functions_nested_loops)|...
+5|[0x03. C - Debugging ](./0x03._debugging )|...
+6|[0x04. C - More functions, more nested loops ](./0x00-vagrant)|...
+7|[0x05. C - Pointers, arrays and strings ](./0x05-pointers_arrays_strings)|...
+8|[0x06. C - More pointers, arrays and strings ](./0x06-pointers_arrays_strings)|...
+9|[0x07. C - Even more pointers, arrays and strings](./README.md)|...
+10|[0x08. C - Recursion ](./0x00-vagrant)|...
+11|[0x09. C - Static libraries ](./0x09-static_libraries)|...
+12|[0x0A. C - argc, argv ](./0x0A-argc_argv)|...
+13|[0x0B. C - malloc, free ](./0x0B-malloc_free)|...
+14|[0x0C. C - More malloc, free](./0x0C-more_malloc_free)|...
+15|[0x0D. C - Preprocessor ](./0x0D-preprocessor)|...
+15|[0x0E. C - Structures, typedef](./0x0E-structures_typedef)|...
+15|[0x0F. C - Function pointers ](./0x0F-function_pointers)|...
+15|[0x10. C - Variadic functions ](./0x10-variadic_functions)|...
+15|[0x11. C - printf](https://github.com/llanojs/printf)|...
+15|[0x14. C - Bit manipulation](./0x14-bit_manipulation)|...
 ---
 ## :earth_americas: Resources  
 
@@ -58,13 +74,82 @@ A shell program is typically an executable binary that takes commands that you t
 ##|File
 ---|---
 1|[README.md](./README.md) 
-2|[0-opening](./0-opening)
-3|[1-saving](./1-saving)
-4|[2-cutting](./2-cutting)
-5|[3-pasting](./3-pasting)
-6|[4-searching](./4-searching)
-7|[6-quitting](./6-quitting)
-8|[101-doctor](./101-doctor)
+2|[0-quote.c](./0-quote.c)
+3|[1-quote.c](./1-quote.c)
+4|[2-quote.c](./2-quote.c)
+5|[3-quote.c](./3-quote.c)
+6|[4-quote.c](./4-quote.c)
+7|[5-quote.c](./5-printf.c)
+8|[6-quote.c](./6-quote.c)
+9|[7-quote.c](./7-quote.c)
+10|[8-quote.c](./8-quote.c)
+11|[9-quote.c](./9-quote.c)
+12|[10-quote.c](./10-quote.c)
+13|[11-quote.c](./11-quote.c)
+14|[12-quote.c](./12-quote.c)
+15|[13-quote.c](./13-quote.c)
+16|[14-quote.c](./14-quote.c)
+17|[15-quote.c](./15-quote.c)
+18|[16-quote.c](./16-quote.c)
+19|[17-quote.c](./17-quote.c)
+20|[18-quote.c](./18-quote.c)
+21|[19-quote.c](./19-quote.c)
+22|[20-quote.c](./20-quote.c)
+23|[21-quote.c](./21-quote.c)
+24|[22-quote.c](./22-quote.c)
+25|[23-quote.c](./23-quote.c)
+26|[24-quote.c](./24-quote.c)
+27|[25-quote.c](./25-quote.c)
+28|[26-quote.c](./26-quote.c)
+29|[27-quote.c](./27-quote.c)
+30|[28-quote.c](./28-quote.c)
+31|[29-quote.c](./29-quote.c)
+32|[30-quote.c](./30-quote.c)
+
+---
+
+<h1 align="center">Low-level programming & Algorithm </h1>
+
+<h2 align="center">Hatching out </h2>
+
+---
+
+### :file_folder: Files / Directories 
+
+#|File|Description
+---|---|---
+1|[README.md](./README.md)|...
+2|[0x00. C - Hello, World ](./0x00-hello_world)|...
+3|[0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)|...
+
+---
+
+<h2 align="center">Data structures and Algorithms </h2>
+
+---
+
+### :file_folder: Files / Directories 
+
+#|File|Description
+---|---|---
+1|[README.md](./README.md)|...
+2|[0x12. C - Singly linked lists ](./0x12-singly_linked_lists)|...
+2|[0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)|...
+
+---
+
+<h2 align="center">Linux and Unix system programming </h2>
+
+---
+
+### :file_folder: Files / Directories 
+
+#|File|Description
+---|---|---
+1|[README.md](./README.md)|...
+2|[0x15. C - File I/O ](./0x15-file_io)|...
+2|[0x16. C - Simple Shell ](https://github.com/nathsotomayor/simple_shell)|...
+
 
 ---
 
