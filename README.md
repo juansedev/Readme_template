@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://www.holbertonschool.com/holberton-logo.png" width="360"/>
- <h1 align="center">System engineering & DevOps - Bash <br> 😎🎯👨‍💻</h1>
+ <h1 align="center">System engineering & DevOps - Bash</h1>
+ <br>
  <p align="center">
     <a href="https://github.com/ellerbrock/open-source-badges/">
         <img alt="bash" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103" target="_blank" />
@@ -29,29 +30,28 @@
 
 In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/software/bash/) (**Bourne Again SHell**).
 
-Definition :black_nib: :
+:black_nib:  Definition:
 
 
 > Bash is the GNU Project's shell. Bash is the Bourne Again SHell. Bash is an sh-compatible shell that incorporates useful features from the Korn > shell (ksh) and C shell (csh). It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard. It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification.
 
 ---
-### Files / Directories :file_folder: :books: 
+### :file_folder: Files / Directories 
 
 ##|File|Description
 ---|---|---
-1|[README.md](./README.md)|Readme :memo: .
+1|[README.md](./README.md)|Readme.
 2|[0x01-vagrant](./0x00-vagrant)|In this project a virtualized development environment was installed and configured, it was carried out using the Github, VirtualBox and Vagrant tools.
 2|[0x01-emacs](./0x01-emacs)|In this project the EMACS text editor was installed and its basic commands were revised.
 3|[0x02-vi](./0x02-vi)|In this project the basic commands of the text editor VI were revised.
 4|[0x03-git](./0x03-git)|In this project I work with the Github version control tool and its main commands.
 ---
-## Resources  ​:floppy_disk: :earth_americas:
+## :earth_americas: Resources  
 
 
 *    [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
 
-## Files :memo:
-
+## :memo: Files 
 ##|File
 ---|---
 1|[README.md](./README.md) 
