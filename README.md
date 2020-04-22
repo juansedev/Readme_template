@@ -20,8 +20,15 @@
     </a>
  </p>
 </p>
-https://unicode.org/emoji/charts/full-emoji-list.html
+
+--- 
+
+<p align="center">
+  https://unicode.org/emoji/charts/full-emoji-list.html
+</p>
 👽❤💯💤💭🗨🖖👋👌🤘👈👉👍✍🦾💪🧑‍🏫🧑‍🔧🧑‍💻👨‍💻👩‍💻🧑‍🚀🦸‍♂️🦸‍♀️🏃‍♂️🏃‍♀️🌲🌱🌳🌍🌎🌏🗺🌐🛑🚧🛸🚀🛰⌛⏳⌚🌟🏆🎖🎯🎮🕹🧩🥽🔊📣🔋🔌💻📓📚📦📫🖋✒✏📌📍🗝🔒🔓🛠🔨⚔🏹🔧⚙📡☢☣❔❓‼❕❗♻🤖
+
+---
 
 <p align="center">
 <h1 align="center">Bash</h1>
