@@ -69,8 +69,6 @@ In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/
 
 <p align="center">
     <h2 align="center">By, Juan Sebastian Llano Gallego</h2>
-    <p align="center">
-    <h2 align="center">Juan Sebastian Llano Gallego </h2>
       <p align="center">
         <a href="https://twitter.com/llanoJS" target="_blank">
             <img alt="twitter_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
@@ -82,7 +80,6 @@ In this project, I reviewed the basic concepts about [BASH](https://www.gnu.org/
             <img alt="medium_page" src="https://raw.githubusercontent.com/EckoJuan/Readme_template/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
       </p>
-    </p>
 </p>
 
 ## Made with :heart: in
